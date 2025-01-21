@@ -1,10 +1,15 @@
 {
-  "name": "express-simple-starter",
-  "private": true,
+  "name": "stackblitz-starters-cjrfu1kt",
+  "version": "1.0.0",
+  "description": "This lab exercise focuses on:",
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
   }
 }
